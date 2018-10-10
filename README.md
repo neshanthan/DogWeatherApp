@@ -1,4 +1,4 @@
-# WeatherSniffer
+# Dog Weather App
 Like most outdoor activities, the weather dictates how motivated we are to leave the house. Walking a dog is no different.
 Unlike other pets, dogs have to be taken for regular walks or their health can deteriorate.
 WeatherSniffer not only shows the weather but informs a user whether now is a suitable time to walk your dog.
